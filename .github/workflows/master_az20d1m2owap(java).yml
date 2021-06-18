@@ -49,5 +49,5 @@ jobs:
       with:
         app-name: 'az20d1m2owap'
         slot-name: 'java'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_048b9eedfb0f4f05ae622a9fccf2c0ac }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_dcb98571851c4307ab7d397d922ec940 }}
         package: '*.war'
